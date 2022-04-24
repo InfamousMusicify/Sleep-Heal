@@ -1,0 +1,21 @@
+{
+    "display": {
+        "title": "Sleep Heal Info                                                   ",
+        "description": ["",
+        {"text":"/trigger sleepheal","color":"yellow"},{"text":" - (turn pack on/off)","color":"gold"},{"text":"\n"},
+        {"text":"Get full health from sleeping","color":"green"},{"text":"\n"},
+        {"text":"(also hunger if enabled by admins/player)","color":"dark_green"}
+    ],
+    "icon": {
+        "item": "minecraft:mushroom_stew"
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+    },
+    "parent": "inhauspacks:sleepheal",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
