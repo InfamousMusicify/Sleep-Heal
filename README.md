@@ -1,17 +1,14 @@
-# [Sleep Heal]()      
+# [Sleep Heal](https://github.com/InfamousMusicify/Sleep-Heal/blob/master/Downloads.md)      
 ### Minecraft: Java Edition - Data Pack   
 
 ### *Sleeping heals you!*    
-
+### [🔗Downloads🔗](https://github.com/InfamousMusicify/Sleep-Heal/blob/master/Downloads.md) - [How to Install a Datapack](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/)    
    Commands:    
 `/trigger sleepheal` - toggle sleep heal / feed (per player)       
    OPs can use theese commands:    
 `/function sleepheal:config` - to configure the data pack (cooldowns and feed)   
 `/function sleepheal:uninstall` - to uninstall all releavent scorebaords/tags.       
-
-## [🔗Download (Direct)🔗](https://github.com/InfamousMusicify/Sleep-Heal/releases) [🔗Master .ZIP (Loose Files)🔗](https://github.com/InfamousMusicify/Sleep-Heal/archive/refs/heads/master.zip)   
-
-__[🔗 How to Install a Datapack](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/)__      
+   
 
 ### [🔗Donations appreciated:](https://www.patreon.com/InfamousMusicify)   
 __All of my projects take an inordinate amount of time to upkeep/create.   
